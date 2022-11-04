@@ -1,1 +1,1 @@
-#Just a CodeRetreat Ruby repo
+# Just a CodeRetreat Ruby repo
